@@ -1,0 +1,4 @@
+function setup(){
+Createcanvas(600,600);
+background("Black");
+}

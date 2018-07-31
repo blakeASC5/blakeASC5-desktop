@@ -1,0 +1,15 @@
+h1{
+    font-style: oblique;
+    color: blue ;
+    text-align: center;
+
+}
+p{
+    font-style: italic;
+    text-align: left
+}
+
+img {
+    border-radius: 8px;
+    align-content: center
+}

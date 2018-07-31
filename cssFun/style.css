@@ -1,0 +1,14 @@
+.square{
+    background-color: darkblue;
+    height: 100px;
+    width: 100px;
+display:inline ;
+}
+
+#first {
+    background-color: blueviolet
+} 
+#second {
+    background-color: rosybrown
+}
+
